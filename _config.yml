@@ -1,9 +1,9 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
+title: All Problems
+description: Problems
+author: Kerem Demirtürk
+github: https://github.com/keremdemirtrk
+about: I'm studying at KTU Computer Engineering
+disqus_shortname: Problems
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
 
@@ -17,15 +17,13 @@ collections:
 
 social:
     - icon: fa-facebook
-      link: "#"
+      link: "https://www.facebook.com/kerem.demirturk1"
     - icon: fa-twitter
       link: "#"
     - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
+      link: "https://www.linkedin.com/in/keremdemirtrk/"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/keremdemirtrk"
 
 share:
   twitter_username: github.io
@@ -39,7 +37,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://keremdemirtrk.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
