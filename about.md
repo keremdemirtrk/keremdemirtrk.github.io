@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+I'm studying at KTU Computer Engineering. This site is my personel blog. I want to share with you what ı learned in everyday.
 
-email: agus[at]python.web.id
+email: keremdemirtrk[at]gmail.com
